@@ -51,7 +51,7 @@ CoolDrink
 7. Wait 1–2 minutes.
 8. Your website will be live at:
 
-https://yourusername.github.io/repositoryname/
+https://harshavardhanbommalata.github.io/COOLDRINKLANDING/
 
 ---
 
